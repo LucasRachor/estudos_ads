@@ -1,0 +1,26 @@
+.navbar {
+  background-color: #343a40;
+}
+.navbar-brand, .nav-link {
+  color: #fff;
+}
+.nav-link:hover {
+  color: #d4d4d4;
+}
+.card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
+.footer {
+  background-color: #343a40;
+  color: white;
+  padding: 20px 0;
+}
+.social-icons a {
+  color: white;
+  margin-right: 10px;
+  font-size: 24px;
+}
+.social-icons a:hover {
+  color: #d4d4d4;
+}
